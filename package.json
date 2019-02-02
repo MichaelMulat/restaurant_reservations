@@ -1,0 +1,23 @@
+{
+  "name": "restaurant_reservations",
+  "version": "1.0.0",
+  "description": "Table reservations application using node and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  ,
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelMulat/restaurant_reservations.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelMulat/restaurant_reservations/issues"
+  },
+  "homepage": "https://github.com/MichaelMulat/restaurant_reservations#readme"
+}
